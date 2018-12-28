@@ -22,3 +22,6 @@ Required Items,
      - 10K Ohm * 3 
      - 1K Ohm * 1 
      - 100 Ohm * 1
+
+
+Video : https://youtu.be/5ANKwCkhNMY
